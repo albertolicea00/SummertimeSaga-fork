@@ -5,6 +5,7 @@
 ![Purpose](https://img.shields.io/badge/Purpose-Learning-green)
 ![Engine](https://img.shields.io/badge/Engine-Ren'Py-lightgrey)
 ![Not for Distribution](https://img.shields.io/badge/Distribution-Prohibited-red)
+![18+](https://img.shields.io/badge/Content-18%2B-black)
 
 > **Unofficial, fan-made fork of *Summertime Saga*, built for learning and educational study only.**
 > Not affiliated with Kompas Productions or DarkCookie. Not for distribution or monetization.
